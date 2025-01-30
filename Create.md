@@ -1,0 +1,4 @@
+Cost: 6 
+Bring the subject into being from nothing. Create cannot produce anything specific or unique; e.g., a particular person or the Holy Grail. Objects produced by Create effects are drawn from the caster’s mind. When creating manufactured goods (not raw materials), poor visualization can produce useless junk! If the spell is successful, the caster must also roll against any skill used to design, build, or maintain the product, with a bonus equal to the ritual’s margin of success; failure means it isn’t properly formed. Difficult items may impose a penalty on this roll; the GM may assign a modifier or use the (very rough!) guidelines below, based on how expensive the item is.
+
+[[Ritual Path Magic|RPM pg.16]]

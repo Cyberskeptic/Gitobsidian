@@ -1,0 +1,23 @@
+Prerequisite: [[Thaumatology]]. 
+
+Crossroads are the connections between locations, times, and planes of existence. The specifics vary by campaign, but most settings have some form of gates (or similar weak points), creatures, or people with the ability to move between places, between times, and/or between dimensions. Lesser Crossroads effects can only target existing gates or weak points in reality; Greater Crossroads effects can actively create them, or target creatures or people. Unless the GM rules otherwise, neither allows true teleportation – at most, a ritual can link two places with a temporary spatial gate, which anyone may then pass through.
+
+Gates take a full second to form and are very noticeable. Conjuring a gate beneath a foe is an option, but unless he’s prevented from moving or the gate is huge, he’s likely just to step away from it.
+
+By default, a gate can be used by anyone, in either direction; use Control Crossroads to restrict this. If the caster creates a portal in mid-air, he can decide if it’s “one-sided” (you have to approach it from a single direction to use it) or not. Any other aspects of gates (e.g., what happens if you try to create a spatial gate into the middle of a mountain) are a GM call; the answers may vary from campaign to campaign. Casters can make a Thaumatology roll to know the answer before invoking a ritual. 
+
+Note that Crossroads includes mundane connections between locations as well – that is, normal (or secret!) doors, windows, and so on. 
+
+[[Sense]] Crossroads: Lesser Sense Crossroads can reveal a nearby gate, identify where it goes, or use it to find or communicate with someone on the other side. Greater Sense Crossroads can locate someone (or something) with an innate ability to cross over, identify details about that ability, or find or communicate with someone through time or across dimensions. 
+
+[[Strengthen]] Crossroads: Lesser Strengthen Crossroads can stabilize a fluctuating gate, cause a temporal weak point to reach further back (or forward) in time, or make it easier for travelers to use the crossroads. Greater Strengthen Crossroads can enhance someone’s innate ability to cross over (e.g., giving him a bonus or allowing him to take additional people), help a being remain in our time/plane if its ability to do so is weak, or force such a being to remain here instead of returning home. 
+
+[[Restore]] Crossroads: Lesser Restore Crossroads can reopen a closed gate. In many settings, a time- or dimension-crossing being leaves behind a residual weak point after returning home, which allows a Lesser effect to summon the being back; if not, a Greater effect is needed. The GM may also rule that Greater Restore Crossroads is required to reopen a gate or weak point which has been closed for so long that it’s effectively inert. It can also restore someone’s innate ability to cross over if something else took it away. 
+
+[[Control]] Crossroads: Lesser Control Crossroads can alter the use of a gate – restricting it so it’s only useful during certain times, to certain people, etc. – or physically move a weak point to a new location. Greater Control Crossroads can overrule a person’s (or creature’s) innate ability, allowing the caster to determine how it works and where/when it takes him, or target an area as a whole to make it easier or harder for others to form gates that link there. 
+
+[[Destroy]] Crossroads: Lesser Destroy Crossroads can close a gate, oppose a spell which allows something to cross over, or banish a being relying on such a spell (or an open gate) to temporarily remain here. Greater Destroy Crossroads can banish any being here from another place, time, or dimension, even if it’s using its own innate abilities to cross over indefinitely; it can also cause a partial destruction (e.g., turning a spatial-andtemporal gate into a spatial-only one or removing someone’s ability to travel to one particular plane). 
+
+[[Create]] Crossroads: Lesser Create Crossroads is very limited; at most, it can make an existing weak point visible and easily controlled. Greater Create Crossroads allows the caster to form a spatial, temporal, or dimensional gate; if he wants a gate that can combines two or three options, he’ll need multiple Greater Create Crossroads effects. 
+
+[[Transform]] Crossroads: Lesser Transform Crossroads can change the endpoint(s) of an existing gate without changing the type of gate it is; e.g., it can shift a gate to Hell to point to the astral plane, but could not turn it into a temporal gate. Greater Transform Crossroads can alter the fundamental nature of a gate, as well as rearrange a person or being’s crossroads-related traits.

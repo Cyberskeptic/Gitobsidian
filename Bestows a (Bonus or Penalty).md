@@ -1,0 +1,2 @@
+Use this table to determine the energy cost of bonuses or penalties, based on whether the ritual will add a modifier to a broad range of rolls (e.g., active defense rolls, Sense rolls, or a wildcard skill), a moderate range (e.g., rolls to hide or Vision rolls), or a narrow range (e.g., Climbing rolls or social rolls affecting a specific person). You can give a penalty to magic use, but not a bonus; see [[Stacking Spells]] (p. 15) for more.
+
