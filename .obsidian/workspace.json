@@ -25,10 +25,14 @@
             "id": "3c5b86fc3bd55e85",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Ritual Path Magic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ritual Path Magic"
             }
           },
           {
@@ -118,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ritual Path Magic.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Ritual Path Magic"
             }
           },
           {
@@ -136,11 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ritual Path Magic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Ritual Path Magic"
             }
           },
           {
@@ -161,9 +167,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Ritual Path Magic.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Ritual Path Magic"
             }
           }
         ],
@@ -189,6 +197,10 @@
   "active": "3c5b86fc3bd55e85",
   "lastOpenFiles": [
     "Ritual Path Magic.md",
+    "Path of Body (Yesod).md",
+    "Path of Crossroads (Tiphareth).md",
+    "Path of Energy (Geburah).md",
+    "Path of Undead (Malkuth).md",
     "README.md",
     "Pasted image 20250130170943.png",
     "Books.md",
@@ -216,12 +228,8 @@
     "Pasted image 20250130185928.png",
     "Pasted image 20250130185917.png",
     "Pasted image 20250130185909.png",
-    "Path of Energy (Geburah).md",
-    "Path of Crossroads (Tiphareth).md",
     "Path of Chance (Hod).md",
-    "Path of Body (Yesod).md",
     "Thaumatology.md",
-    "Stacking Spells.md",
     "Pasted image 20250130171121.png",
     "Sephirot.svg"
   ]
